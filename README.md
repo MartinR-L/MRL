@@ -2,7 +2,7 @@
 <img src = https://github.com/MartinR-L/MRL/blob/main/2.png>
 <img src = https://github.com/MartinR-L/MRL/blob/main/3.png>
 <img src = https://github.com/MartinR-L/MRL/blob/main/4.png>
-<img src = https://github.com/MartinR-L/MRL/blob/main/TF_Dev_Cert%20Coursera%20GFCUYKT4CZN6.pdf>
+[Certificate](https://github.com/MartinR-L/MRL/blob/main/TF_Dev_Cert%20Coursera%20GFCUYKT4CZN6.pdf)
 <img src =  https://github.com/MartinR-L/MRL/blob/main/MLOPs%20-%20Cert%20-%20Coursera%20HGDSC9F7QU8E.pdf>
 <img src = https://github.com/MartinR-L/MRL/blob/main/Google%20Adv%20Analytics%20Cert%20-%20Coursera%20J6QQUYAJHKQ3.pdf>
 <img src = https://github.com/MartinR-L/MRL/blob/main/Final%20Cert%20Coursera%203M7ZW43RWS2U.pdf>
