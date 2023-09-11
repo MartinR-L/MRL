@@ -5,7 +5,7 @@
 
 - [**Tensorflow Developer Professional Certificate**](https://github.com/MartinR-L/Certificates/blob/main/TF_Dev_Cert%20Coursera%20GFCUYKT4CZN6.pdf)
 
-- [**Machine Learning Production Specialty**](https://github.com/MartinR-L/Certificates/blob/main/MLOPs%20-%20Cert%20-%20Coursera%20HGDSC9F7QU8E.pdf>)
+- [**Machine Learning Production Specialty**](https://github.com/MartinR-L/Certificates/blob/main/MLOPs%20-%20Cert%20-%20Coursera%20HGDSC9F7QU8E.pdf)
 
 - [**Google Advanced Analytics Professional**](https://github.com/MartinR-L/Certificates/blob/main/Google%20Adv%20Analytics%20Cert%20-%20Coursera%20J6QQUYAJHKQ3.pdf)
 
