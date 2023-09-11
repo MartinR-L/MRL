@@ -2,11 +2,11 @@
 <img src = https://github.com/MartinR-L/MRL/blob/main/2.png>
 <img src = https://github.com/MartinR-L/MRL/blob/main/3.png>
 <img src = https://github.com/MartinR-L/MRL/blob/main/4.png>
-[Certificate](https://github.com/MartinR-L/MRL/blob/main/TF_Dev_Cert%20Coursera%20GFCUYKT4CZN6.pdf)
-<img src =  https://github.com/MartinR-L/MRL/blob/main/MLOPs%20-%20Cert%20-%20Coursera%20HGDSC9F7QU8E.pdf>
-<img src = https://github.com/MartinR-L/MRL/blob/main/Google%20Adv%20Analytics%20Cert%20-%20Coursera%20J6QQUYAJHKQ3.pdf>
-<img src = https://github.com/MartinR-L/MRL/blob/main/Final%20Cert%20Coursera%203M7ZW43RWS2U.pdf>
-<img src  = https://github.com/MartinR-L/MRL/blob/main/GANs%20Cert%20-%20Coursera%20FNJFYJ285RUP.pdf>
+[Tensorflow Developer Professional Certificate](https://github.com/MartinR-L/MRL/blob/main/TF_Dev_Cert%20Coursera%20GFCUYKT4CZN6.pdf)
+[Machine Learning Production Specialty](https://github.com/MartinR-L/MRL/blob/main/MLOPs%20-%20Cert%20-%20Coursera%20HGDSC9F7QU8E.pdf>)
+[Google Advanced Analytics Professional](https://github.com/MartinR-L/MRL/blob/main/Google%20Adv%20Analytics%20Cert%20-%20Coursera%20J6QQUYAJHKQ3.pdf)
+[Practical Data Science on AWS](https://github.com/MartinR-L/MRL/blob/main/Final%20Cert%20Coursera%203M7ZW43RWS2U.pdf)
+[Generative Adversarial Networks Specialty](https://github.com/MartinR-L/MRL/blob/main/GANs%20Cert%20-%20Coursera%20FNJFYJ285RUP.pdf)
 
 
 <!--
